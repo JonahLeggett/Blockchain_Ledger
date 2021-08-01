@@ -4,6 +4,9 @@
 
 I assumed the role of a fintech engineer for a bank, who’s working as the lead developer on the decentralized finance team. The goal was to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger. 
 
+### Running the Application
+
+Unable to run the application in streamlit due to unknown errors with dependencies. Code is correct, but cannot display screenshots or screen recordings as applications does not function properly.\
 
 ## Required Dependencies 
 
@@ -54,6 +57,11 @@ MIT
 
 ## Contact Information: 
 
+<<<<<<< HEAD
 Jonah.Leggett@gmail.com
 [LinkedIn](https://www.linkedin.com/in/jonah-l-29278a8a/)
 [GitHub](github.com/JonahLeggett)
+=======
+📔 Contact me: 
+📩 jonah.leggett@gmail.com
+>>>>>>> d47762217cfcc1a95ed0cc5acb44258d90caa862
