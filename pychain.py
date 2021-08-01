@@ -1,3 +1,4 @@
+
 # PyChain Ledger
 ################################################################################
 # You’ll make the following updates to the provided Python file for this
@@ -251,3 +252,5 @@ if st.button("Validate Chain"):
 # Take a screenshot of the Streamlit application page, which should indicate
 # the validity of the blockchain. Include the screenshot in the `README.md`
 # file for your Challenge repository.
+
+pychain_df.head()
