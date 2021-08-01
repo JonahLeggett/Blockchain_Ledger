@@ -1,12 +1,20 @@
-### Blockchain Based Ledger Application
+### Blockchain Based Ledger Application 
+---
 
-## Overview of the project and project goals
-
+# Overview of the project and project goals
+---
 I assumed the role of a fintech engineer for a bank, who’s working as the lead developer on the decentralized finance team. The goal was to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger. 
 
+## Screenshots of Application
+---
+# Blockchain containing multiple blocks
+![Multiple Blocks](module_18_challenge/Blockchain_Ledger/Resources/blocks.jpg)
+
+# Blockchain validation 
+![Validation](module_18_challenge/Blockchain_Ledger/Resources/validation.jpg)
 
 ## Required Dependencies 
-
+---
 ```
 import streamlit as st
 from dataclasses import dataclass
@@ -29,17 +37,17 @@ import hashlib
 * [Hashlib](https://docs.python.org/3/library/hashlib.html) - This module implements a common interface to many different secure hash and message digest algorithms.
 
 ## Installation
-
-Clone repo from GitHub to your computer:
+---
+1. Clone repo from GitHub to your computer:
 
 ```
 git clone https://github.com/JonahLeggett/Blockchain_Ledger.git
 ```
 
-Open **pychain.py** in VS Code.
+2. Open **pychain.py** in VS Code.
 
 ## Run Streamlit
-
+---
 1. Navigate to the 'Blochain_Ledger' repo folder in terminal.
 
 2. Run the following command in terminal:
@@ -49,12 +57,12 @@ streamlit run pychain.py
 ```
 
 ## License
-
+---
 MIT
 
 ## Contact Information: 
+---
 
-
-[LinkedIn](https://www.linkedin.com/in/jonah-l-29278a8a/)
-[GitHub](github.com/JonahLeggett)
-**Jonah.Leggett@gmail.com**
+- [LinkedIn](https://www.linkedin.com/in/jonah-l-29278a8a/)
+- [GitHub](github.com/JonahLeggett)
+- **Jonah.Leggett@gmail.com**
